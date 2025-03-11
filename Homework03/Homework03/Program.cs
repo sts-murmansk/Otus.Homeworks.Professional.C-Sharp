@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Microsoft.Win32.SafeHandles;
 
-namespace Homework04
+namespace Homework03
 {
     internal class Program
     {
